@@ -1,0 +1,20 @@
+{
+  "name": "library-book-management-api",
+  "version": "1.0.0",
+  "description": "Library Book Management REST API using Node.js and Express.js",
+  "main": "httpServer.js",
+  "scripts": {
+    "start": "node httpServer.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "library-management"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
